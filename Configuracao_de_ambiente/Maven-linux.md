@@ -1,4 +1,6 @@
-## Maven no Linux
+## Instalação
+
+### No terminal:
 
 1-  Atualize os pacotes
 
