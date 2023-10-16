@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>br.com.monica.project</groupId>
 	<artifactId>todo-do-list</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>todo-do-list</name>
 	<description>to-do-list em java e spring boot</description>
 	<properties>
