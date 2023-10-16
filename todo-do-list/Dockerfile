@@ -14,6 +14,6 @@ FROM openjdk:17-jdk-slim
 
 EXPOSE 8080
 
-COPY --from=build /app/target/todo-do-list-1.0.0.jar /app/app.jar
+COPY --from=build /app/target/todo-do-list-1.0.0.jar app.jar
 
-ENTRYPOINT ["java", "-jar", "/app/app.jar"]
+ENTRYPOINT ["java", "-jar", "app.jar"]
